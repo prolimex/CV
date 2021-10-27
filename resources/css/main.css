@@ -1,0 +1,130 @@
+.principal {
+	padding: 40px;
+  }
+  
+  .nombre {
+	font-size: 30px;
+	font-family: 'Press Start 2P', sans-serif;
+	text-align: center;
+  }
+  
+  .foto {
+	width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+  }
+  
+  .resumenTxt {
+	font-family: 'Gruppo', sans-serif;
+	font-weight: bold;
+	font-size: 22px;
+	text-align: justify;
+  }
+  
+  .titulo {
+	font-size: 28px;
+	text-align: center !important;
+  }
+  
+  .divider {
+	height: 20px;
+  }
+  
+  .textoExp {
+	text-align: justify;
+	font-weight: bold;
+	font-family: 'Gruppo', sans-serif;
+  }
+  
+  .rowFlex {
+	flex-direction: row;
+  }
+  
+  .rowFlexBetween {
+	flex: 1;
+	flex-direction: row;
+	justify-content: space-between;
+  }
+  
+  .bg-html {
+	background-color: #DD4B24 !important;
+  }
+  
+  .bg-css {
+	background-color: #2173F6 !important;
+  }
+  
+  .bg-javascript {
+	background-color: #EFD81D !important;
+  }
+  
+  .bg-mongo {
+	background-color: #55A54E !important;
+  }
+  
+  .bg-sql {
+	background-color: #DA2B26 !important;
+  }
+  
+  .bg-express {
+	background-color: #7B7B7B !important;
+  }
+  
+  .bg-angular {
+	background-color: #DE2938 !important;
+  }
+  
+  .bg-node {
+	background-color: #8CBE40 !important;
+  }
+  
+  .bg-swift {
+	background-color: #F32B22 !important;
+  }
+  
+  .bg-git {
+	background-color: #E95032 !important;
+  }
+  
+  .bg-mysql {
+	background-color: #005E86 !important;
+  }
+  
+  .bg-linux {
+	background-color: #F7D001 !important;
+  }
+  
+  .bg-react {
+	background-color: #5ED4F3 !important;
+  }
+  
+  .bg-react-native {
+	background-color: #28AEF4 !important;
+  }
+  
+  .bg-postgress {
+	background-color: #31648C !important;
+  }
+  
+  .bg-typescript {
+	background-color: #0281CB !important;
+  }
+  
+  .bg-docker {
+	background-color: #2491E6 !important;
+  }
+  
+  .bg-redis {
+	background-color: #D12D27 !important;
+  }
+  
+  .bg-socket {
+	background-color: black !important;
+	color: white !important;
+  }
+  
+  .icono {
+	width: 32px;
+	height: 32px;
+  }
